@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I’m [Your Name] — a Data Engineer & Analytics Developer passionate about building reliable, scalable data systems.
+I specialize in data modeling, ETL automation, and credit analytics pipelines using Snowflake, dbt, and Python.
 
-<!--
-**dataworks89/dataworks89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
 
-Here are some ideas to get you started:
+Design and develop data transformation pipelines with dbt + Snowflake
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Build data ingestion frameworks for APIs, PostgreSQL, and S3 → Snowflake
+
+Create unified JSON-to-relational parsers for financial & credit bureau data
+
+Optimize SQL workflows for performance, traceability, and data consistency
+
+🧠 Tech Stack
+
+Python | SQL | Snowflake | dbt | AWS (S3, Lambda) | PostgreSQL | Docker | Airflow
+
+📊 Recent Work
+
+Unified credit bureau schema combining TransUnion, IDIQ & Spinwheel APIs
+
+Automated Postgres → S3 → Snowflake sync with incremental tracking
+
+Built commission rate engine and financial data warehouse models
+
+🌐 Let’s Connect
+
+💬 Open to collaboration on data pipelines, credit analytics, or ETL tooling.
+📫 [Add your LinkedIn or portfolio link here]

@@ -1,10 +1,10 @@
-# 👋 Hello there, I'm [Your Name]!
+# 👋 Hello there, I'm Sajid Iqbal!
 Here’s a little bit about myself 👇  
 
 ---
 
 ## ⚡ About Me  
-🎯 I’m a **Data Engineer**, specializing in building **scalable data pipelines**, **ETL automation**, and **credit analytics systems**.  
+🎯 I’m a **Data Engineer**, specializing in building **scalable data pipelines**, **ETL automation**, and **analytics systems**.  
 💡 Experienced in **Snowflake**, **dbt**, and **Python**, I focus on transforming complex raw data into structured, actionable insights.  
 📦 Passionate about **clean architecture** and **performance optimization**, I enjoy designing efficient workflows across **data warehouses**, **APIs**, and **cloud platforms**.  
 
@@ -19,7 +19,7 @@ Here’s a little bit about myself 👇
 
 ## 🧾 Certifications & Learning  
 - 🧠 dbt Fundamentals – *dbt Labs*  
-- ☁️ Snowflake Data Warehouse Specialist *(in progress)*  
+- ☁️ SnowPro code cerfitied *(in progress)*  
 - 🪣 AWS Data Engineering Essentials *(learning track)*  
 - 📊 Data Modeling for Analytics & BI  
 - 🧩 Modern Data Stack with Airflow, Snowflake & dbt  
@@ -28,7 +28,7 @@ Here’s a little bit about myself 👇
 
 ## 🧰 Tech Stack  
 **Languages & Tools:**  
-`Python` · `SQL` · `Snowflake` · `dbt` · `PostgreSQL` · `AWS (S3, Lambda)` · `Docker` · `Airflow`  
+`Python` · `SQL` · `Snowflake` · `dbt` · `PostgreSQL` · `AWS (S3, Lambda)` · `Azure Data Factory` · `Airflow`  
 
 ---
 

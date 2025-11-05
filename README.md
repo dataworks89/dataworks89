@@ -1,6 +1,4 @@
 # 👋 Hello there, I'm Sajid Iqbal!
-Here’s a little bit about myself 👇  
-
 ## ⚡ About Me  
 🎯 I’m a **Data Engineer**, specializing in building **scalable data pipelines**, **ETL automation**, and **analytics systems**.  
 💡 Experienced in **Snowflake**, **dbt**, and **Python**, I focus on transforming complex raw data into structured, actionable insights.  

@@ -27,7 +27,3 @@ Here’s a little bit about myself 👇
 ## 📫 Contact  
 💼 [LinkedIn](#)  
 📂 Check out my projects here on **GitHub!**
-
----
-
-⭐ *“Turning messy data into reliable insights — one pipeline at a time.”*  

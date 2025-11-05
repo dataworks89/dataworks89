@@ -1,29 +1,41 @@
-Hi, I’m Sajid — a Data Engineer & Analytics Developer passionate about building reliable, scalable data systems.
-I specialize in data modeling, ETL automation, and pipelines using Snowflake, dbt, and Python.
+# 👋 Hello there, I'm [Your Name]!
+Here’s a little bit about myself 👇  
 
-🚀 What I Do
+---
 
-Design and develop data transformation pipelines with dbt + Snowflake
+## ⚡ About Me  
+🎯 I’m a **Data Engineer**, specializing in building **scalable data pipelines**, **ETL automation**, and **credit analytics systems**.  
+💡 Experienced in **Snowflake**, **dbt**, and **Python**, I focus on transforming complex raw data into structured, actionable insights.  
+📦 Passionate about **clean architecture** and **performance optimization**, I enjoy designing efficient workflows across **data warehouses**, **APIs**, and **cloud platforms**.  
 
-Build data ingestion frameworks for APIs, PostgreSQL, and S3 → Snowflake
+---
 
-Create unified JSON-to-relational parsers for financial & credit bureau data
+## 🌱 Current Focus  
+🚀 Developing **PostgreSQL → S3 → Snowflake** pipelines with batching, pagination, and S3 staging for large-scale transfers.  
+📊 Expanding expertise in **credit bureau data modeling** (TransUnion, IDIQ, Spinwheel) and **financial data warehousing**.  
+⚙️ Learning advanced **data orchestration**, **Docker**, and **CI/CD** practices for robust automation.  
 
-Optimize SQL workflows for performance, traceability, and data consistency
+---
 
-🧠 Tech Stack
+## 🧾 Certifications & Learning  
+- 🧠 dbt Fundamentals – *dbt Labs*  
+- ☁️ Snowflake Data Warehouse Specialist *(in progress)*  
+- 🪣 AWS Data Engineering Essentials *(learning track)*  
+- 📊 Data Modeling for Analytics & BI  
+- 🧩 Modern Data Stack with Airflow, Snowflake & dbt  
 
-Python | SQL | Snowflake | dbt | AWS (S3, Lambda) | PostgreSQL | Docker | Airflow
+---
 
-📊 Recent Work
+## 🧰 Tech Stack  
+**Languages & Tools:**  
+`Python` · `SQL` · `Snowflake` · `dbt` · `PostgreSQL` · `AWS (S3, Lambda)` · `Docker` · `Airflow`  
 
-Unified credit bureau schema combining TransUnion, IDIQ & Spinwheel APIs
+---
 
-Automated Postgres → S3 → Snowflake sync with incremental tracking
+## 📫 Contact  
+💼 [LinkedIn](#)  
+📂 Check out my projects here on **GitHub!**
 
-Built commission rate engine and financial data warehouse models
+---
 
-🌐 Let’s Connect
-
-💬 Open to collaboration on data pipelines, credit analytics, or ETL tooling.
-📫 [Add your LinkedIn or portfolio link here]
+⭐ *“Turning messy data into reliable insights — one pipeline at a time.”*  

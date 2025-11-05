@@ -1,5 +1,5 @@
-Hi, I’m [Your Name] — a Data Engineer & Analytics Developer passionate about building reliable, scalable data systems.
-I specialize in data modeling, ETL automation, and credit analytics pipelines using Snowflake, dbt, and Python.
+Hi, I’m Sajid — a Data Engineer & Analytics Developer passionate about building reliable, scalable data systems.
+I specialize in data modeling, ETL automation, and pipelines using Snowflake, dbt, and Python.
 
 🚀 What I Do
 

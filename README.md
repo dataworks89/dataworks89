@@ -4,21 +4,16 @@
 💡 Experienced in **Snowflake**, **dbt**, and **Python**, I focus on transforming complex raw data into structured, actionable insights.  
 📦 Passionate about **clean architecture** and **performance optimization**, I enjoy designing efficient workflows across **data warehouses**, **APIs**, and **cloud platforms**.  
 
-## 🌱 Current Focus  
-🚀 Developing **PostgreSQL → S3 → Snowflake** pipelines with batching, pagination, and S3 staging for large-scale transfers.  
-📊 Expanding expertise in **credit bureau data modeling** (TransUnion, IDIQ, Spinwheel) and **financial data warehousing**.  
-⚙️ Learning advanced **data orchestration**, **Docker**, and **CI/CD** practices for robust automation.  
-
-## 🧾 Certifications & Learning  
+## 🧾 Certifications  
+- ☁️ SnowPro code cerfitied
 - 🧠 dbt Fundamentals – *dbt Labs*  
-- ☁️ SnowPro code cerfitied *(in progress)*  
 - 🪣 AWS Data Engineering Essentials *(learning track)*  
 - 📊 Data Modeling for Analytics & BI  
 - 🧩 Modern Data Stack with Airflow, Snowflake & dbt  
 
 ## 🧰 Tech Stack  
 **Languages & Tools:**  
-`Python` · `SQL` · `Snowflake` · `dbt` · `PostgreSQL` · `AWS (S3, Lambda)` · `Azure Data Factory` · `Airflow`  
+`Python`· `PySpark` · `SQL` · `Snowflake` · `dbt` · `PostgreSQL` · `AWS (S3, Lambda)` · `Azure Data Factory` · `Airflow` . `SSIS`  
 
 ---
 
